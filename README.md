@@ -71,7 +71,6 @@
 <p>기타</p>
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
 </p>
 
 ### 예약 기능 화면
@@ -216,6 +215,21 @@
 
 
 ---
+
+
+
+# 4. **트러블슈팅**
+
+### 이슈
+
+### 원인
+
+### 해결 방법
+
+### 코드
+
+
+# 5. **학습포인트와 보완점**
 
 
 
