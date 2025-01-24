@@ -23,8 +23,46 @@
 
 # 1. **프로젝트 요약**
 
----
----
+### 프로젝트 인원                 
+- 5명                             
+
+### 프로젝트 기간
+- 2024-11-27 ~ 2024-12-13
+
+### 담당 개발기능 및 구현
+- **예약 CRUD**
+
+
+- **FullCalendar API 연동**
+:
+
+- **관리자페이지 UI/레이아웃**
+:
+
+### 사용 기술
+<p>프론트엔드</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+<p>백엔드</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+</p>
+<p>데이터베이스</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=databricks&logoColor=white">
+</p>
+<p>기타</p>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+</p>
+
 
 <details>
 <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
