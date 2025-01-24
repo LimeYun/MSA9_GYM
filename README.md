@@ -33,13 +33,13 @@
 
 # :gear: 1. **프로젝트 요약**
 
-### 프로젝트 인원                 
+### :bulb: 프로젝트 인원                 
 - 5명                             
 
-### 프로젝트 기간
+### :bulb: 프로젝트 기간
 - 2024-11-27 ~ 2024-12-13
 
-### 담당 개발기능 및 구현
+### :bulb: 담당 개발기능 및 구현
 - **예약 기능** : **예약 CRUD**
   <p>
     권한이 트레이너인 user의 예약 데이터로 필터링하여 예약 신청 / 트레이너별 예약건 조회.
@@ -56,7 +56,7 @@
    관리자 화면 디자인 구성
  </p>
 
-### 사용 기술
+### :bulb: 사용 기술
 <p>프론트엔드</p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
-### 예약 기능 화면
+### :bulb: 예약 기능 화면
 
 - 예약 신청
 
@@ -132,14 +132,14 @@
 # :gear: 3. **프로젝트 ERD 및 화면 설계**
 
 
-### ERD
+### :bulb: ERD
   
   ![ERD 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F2317d53d-12bb-40e1-bf7e-43a3f29dda8a%2Fimage.png?table=block&id=16b902bd-b12f-8032-8568-e03391399423&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1920&userId=&cache=v2)
 
 
 
 &nbsp;
-### 화면 설계
+### :bulb: 화면 설계
                                                                                                          
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
@@ -227,7 +227,7 @@
 # :gear: 4. **학습포인트와 보완점**
 
 
-### MVC 패턴 프로젝트 구조
+### :bulb: MVC 패턴 프로젝트 구조
 
 <p>Domain/Service/Mapper/Controller/.html 등 Model, View, Controller로 역할을 분리했습니다.</p>
 <p>이 구조를 통해 비즈니스 로직과 데이터 처리를 담당하는 Model, 사용자와의 상호작용을 처리하는 Controller,</p>
@@ -238,7 +238,7 @@
 ![image](https://github.com/user-attachments/assets/b81bf708-8433-4bee-b6f0-0c051bb7605d)
 
 
-### Spring Framework
+### :bulb: Spring Framework
 
 <p>객체 관리의 제어를 Spring 에 위임하는 IoC 와 의존성을 자동으로 주입받는 DI 를 학습하고 사용했습니다.</p>
 <p>이를 통해 객체 생성과 의존성 관리를 개발자가 직접 처리하던 방식에서 벗어나게 되었고,</p>
@@ -246,7 +246,7 @@
 
 
 
-## 보완점
+## :bulb: 보완점
 
 <p>개발 단계에 있을 때 스스로 설계에 대한 더 확실한 이해가 필요하다는 점을 느꼈습니다.</p>
 <p>특히, 각 기능이 서로 어떻게 연결되고 의존하는지 100% 완벽하게 파악하지는 못한 상태에서 작업을 시작하면서</p>
