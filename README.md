@@ -1,5 +1,11 @@
 # 🏋️ **FIT NEXUS (Spring Boot + MyBatis기반 프로젝트)**
 
+## [FIT NEXUS(REACT) - REACT + REST API 전환 프로젝트 바로가기](https://github.com/LimeYun/MSA9_GYM_REST)
+
+
+
+---
+
 <p>"FIT NEXUS" 는 스마트 헬스장 통합관리 시스템입니다.</p>
 <p>사용자는 QR 코드를 통합 헬스장 출입, PT 예약, 실시간 헬스장 혼잡도 파악,</p>
 <p>운동계획표를 통한 일정관리가 가능합니다.</p>
