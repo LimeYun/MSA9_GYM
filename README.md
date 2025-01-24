@@ -74,7 +74,7 @@
 
 - 예약 신청
 
-![image](https://github.com/user-attachments/assets/cc8ac9a2-0d75-4bb6-b9e1-161839823efe)
+<p style="outline : 1px">![image](https://github.com/user-attachments/assets/cc8ac9a2-0d75-4bb6-b9e1-161839823efe)</p>
 
 
 ---
