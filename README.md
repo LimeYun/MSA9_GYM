@@ -18,9 +18,10 @@
 
 
 ### 1. 프로젝트 요약
-### 2. 프로젝트 ERD 및 화면 설계
-### 3. 트러블슈팅 
-### 4. 학습포인트와 보완점
+### 2. 요구사항 및 기능 정의서
+### 3. 프로젝트 ERD 및 화면 설계
+### 4. 트러블슈팅 
+### 5. 학습포인트와 보완점
 
 
 
@@ -36,14 +37,14 @@
 - 2024-11-27 ~ 2024-12-13
 
 ### 담당 개발기능 및 구현
-- **예약 CRUD**
-
+- **예약 기능**
+: 예약 CRUD 
 
 - **FullCalendar API 연동**
-:
+: 예약 신청/예약 관리에 캘린더 연동 로직 
 
 - **관리자페이지 UI/레이아웃**
-:
+: 관리자 화면 디자인 구성
 
 ### 사용 기술
 <p>프론트엔드</p>
@@ -69,13 +70,11 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
 </p>
 
+### 예약 기능 화면
 
-<details>
-<summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
-  
-  
-  ![개발 환경 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fa15b7295-4884-4d79-a760-47e8a23443c3%2Fimage.png?table=block&id=169902bd-b12f-8054-9a60-fc844af24385&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
-</details>
+- 예약 신청
+
+![image](https://github.com/user-attachments/assets/cc8ac9a2-0d75-4bb6-b9e1-161839823efe)
 
 
 ---
