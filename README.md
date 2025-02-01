@@ -10,7 +10,8 @@
 <p>"FIT NEXUS" 는 스마트 헬스장 통합관리 시스템입니다.</p>
 <p>사용자는 QR 코드를 통합 헬스장 출입, PT 예약, 실시간 헬스장 혼잡도 파악, 운동계획표를 통한 일정관리가 가능합니다.</p>
 
-![image](https://github.com/user-attachments/assets/2464dcb2-9abd-4f0b-9576-dbbd4de6fb46)
+![image](https://github.com/user-attachments/assets/7585c498-6220-4756-bcd0-2aa66ce8e490)
+
 
 ## 🎥 **프로젝트 발표 영상**  
 [**발표 영상 링크**](https://www.youtube.com/watch?v=HG9iWUQFf-4)
